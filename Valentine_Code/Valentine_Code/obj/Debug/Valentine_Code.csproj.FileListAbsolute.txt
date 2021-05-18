@@ -1,0 +1,7 @@
+C:\Users\heart\source\repos\Valentine_Code\Valentine_Code\bin\Debug\Valentine_Code.exe.config
+C:\Users\heart\source\repos\Valentine_Code\Valentine_Code\bin\Debug\Valentine_Code.exe
+C:\Users\heart\source\repos\Valentine_Code\Valentine_Code\bin\Debug\Valentine_Code.pdb
+C:\Users\heart\source\repos\Valentine_Code\Valentine_Code\obj\Debug\Valentine_Code.csprojAssemblyReference.cache
+C:\Users\heart\source\repos\Valentine_Code\Valentine_Code\obj\Debug\Valentine_Code.csproj.CoreCompileInputs.cache
+C:\Users\heart\source\repos\Valentine_Code\Valentine_Code\obj\Debug\Valentine_Code.exe
+C:\Users\heart\source\repos\Valentine_Code\Valentine_Code\obj\Debug\Valentine_Code.pdb
